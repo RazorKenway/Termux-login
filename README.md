@@ -13,7 +13,7 @@ if you have git and python installed you can skip line 2
 ```shell
 $ cd ~
 $ pkg install git python
-$ git clone https://github.com/Ublimjo/Termux-login.git
+$ git clone https://github.com/RazorKenway/Termux-login.git
 $ cd Termux-login
 $ bash setup.sh
 ```
